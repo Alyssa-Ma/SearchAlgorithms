@@ -49,7 +49,7 @@ public class SearchAlogrithms
 			
 			if(nums[k] < query)
 			{
-				k = k+1;
+				i = k+1;
 			}
 			
 			else
